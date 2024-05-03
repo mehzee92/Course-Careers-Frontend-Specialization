@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "parcel index.html"
+    "start": "node init && parcel index.html"
   },
   "keywords": [],
   "author": "",
